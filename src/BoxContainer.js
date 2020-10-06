@@ -4,8 +4,8 @@ import "./BoxContainer.css";
 
 class BoxContainer extends Component {
   static defaultProps = {
-    numBoxes: 18,
-    allColors: ["purple", "magenta", "violet", "pink"]
+    numBoxes: 16,
+    allColors: ["purple", "magenta", "violet", "pink", "red", "yellow", "blue"]
   };
   render() {
     const boxes = Array.from({ length: this.props.numBoxes }).map(() => (

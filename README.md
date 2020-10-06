@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+![color-box](https://user-images.githubusercontent.com/63305945/95174403-a1de5e00-07d7-11eb-90ad-dac10df5c7ab.gif)
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
